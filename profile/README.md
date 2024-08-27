@@ -15,8 +15,8 @@ Our system focuses on:
 We aim to create a comprehensive hospital-based solution that can be integrated into a city-wide module.
 
 ### Where to Start
-Please visit the following repositories for more information:
-- [System Architecture](https://github.com/HospitEase/system-architecture)
+Please visit the following links for more information:
+- [System Architecture](https://www.notion.so/System-architecture-355e778940b342e0ab428e17baf20a5e?pvs=4)
 
 ### Tech Stack
 Our solution utilizes the following technologies:
