@@ -16,7 +16,7 @@ We aim to create a comprehensive hospital-based solution that can be integrated 
 
 ### Where to Start
 Please visit the following links for more information:
-- [System Architecture](https://www.notion.so/System-architecture-355e778940b342e0ab428e17baf20a5e?pvs=4)
+- [System Architecture](https://thread-bird-7e6.notion.site/System-architecture-355e778940b342e0ab428e17baf20a5e)
 
 ### Tech Stack
 Our solution utilizes the following technologies:
