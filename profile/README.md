@@ -1,6 +1,6 @@
 ![HospitEase](https://github.com/HospitEase/.github/blob/main/profile/hospital_management_banner.jpeg)
 
-## Efficient Healthcare Solutions for Delhi
+## Efficient Healthcare Solutions for Everyone
 <a href="https://github.com/SmoggyOwO" style="display: flex; align-items: center;">Visit our website</a>
 
 Welcome to our Hospital Management System project! We're addressing critical healthcare challenges in Delhi through innovative technological solutions.
